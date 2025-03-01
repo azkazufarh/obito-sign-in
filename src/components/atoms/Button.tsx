@@ -4,7 +4,7 @@ const Button = ({
   children,
   classname,
 }: {
-  type: string;
+  type: "button" | "submit" | "reset";
   primary?: boolean;
   children: string;
   classname?: string;
