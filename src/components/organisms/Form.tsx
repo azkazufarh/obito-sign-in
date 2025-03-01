@@ -1,4 +1,3 @@
-import React from "react";
 import InputFile from "../atoms/InputFile";
 import InputForm from "../molecules/InputForm";
 import Button from "../atoms/Button";
